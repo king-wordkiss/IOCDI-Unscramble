@@ -1,0 +1,5 @@
+{
+  "Key": "value",
+  "IUserDAL": "IOCDIDAL.UserDAL,IOCDIDAL",
+  "IUserBLL": "IOCDIBLL.UserBLL,IOCDIBLL"
+}

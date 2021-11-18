@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IOCDIDAL/1.0.0": {
+        "dependencies": {
+          "IOCDIIDAL": "1.0.0"
+        },
+        "runtime": {
+          "IOCDIDAL.dll": {}
+        }
+      },
+      "IOCDIIDAL/1.0.0": {
+        "dependencies": {
+          "IOCDIModel": "1.0.0"
+        },
+        "runtime": {
+          "IOCDIIDAL.dll": {}
+        }
+      },
+      "IOCDIModel/1.0.0": {
+        "runtime": {
+          "IOCDIModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IOCDIDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IOCDIIDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IOCDIModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

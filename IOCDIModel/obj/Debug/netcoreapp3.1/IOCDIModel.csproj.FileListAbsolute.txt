@@ -1,0 +1,8 @@
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIModel\bin\Debug\netcoreapp3.1\IOCDIModel.deps.json
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIModel\bin\Debug\netcoreapp3.1\IOCDIModel.dll
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIModel\bin\Debug\netcoreapp3.1\IOCDIModel.pdb
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIModel\obj\Debug\netcoreapp3.1\IOCDIModel.AssemblyInfoInputs.cache
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIModel\obj\Debug\netcoreapp3.1\IOCDIModel.AssemblyInfo.cs
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIModel\obj\Debug\netcoreapp3.1\IOCDIModel.csproj.CoreCompileInputs.cache
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIModel\obj\Debug\netcoreapp3.1\IOCDIModel.dll
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIModel\obj\Debug\netcoreapp3.1\IOCDIModel.pdb

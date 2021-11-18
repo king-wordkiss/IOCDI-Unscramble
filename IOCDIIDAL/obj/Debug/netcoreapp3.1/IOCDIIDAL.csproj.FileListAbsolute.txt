@@ -1,0 +1,12 @@
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIIDAL\bin\Debug\netcoreapp3.1\IOCDIIDAL.deps.json
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIIDAL\bin\Debug\netcoreapp3.1\IOCDIIDAL.dll
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIIDAL\bin\Debug\netcoreapp3.1\IOCDIIDAL.pdb
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIIDAL\bin\Debug\netcoreapp3.1\IOCDIModel.dll
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIIDAL\bin\Debug\netcoreapp3.1\IOCDIModel.pdb
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIIDAL\obj\Debug\netcoreapp3.1\IOCDIIDAL.csprojAssemblyReference.cache
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIIDAL\obj\Debug\netcoreapp3.1\IOCDIIDAL.AssemblyInfoInputs.cache
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIIDAL\obj\Debug\netcoreapp3.1\IOCDIIDAL.AssemblyInfo.cs
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIIDAL\obj\Debug\netcoreapp3.1\IOCDIIDAL.csproj.CoreCompileInputs.cache
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIIDAL\obj\Debug\netcoreapp3.1\IOCDIIDAL.csproj.CopyComplete
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIIDAL\obj\Debug\netcoreapp3.1\IOCDIIDAL.dll
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIIDAL\obj\Debug\netcoreapp3.1\IOCDIIDAL.pdb

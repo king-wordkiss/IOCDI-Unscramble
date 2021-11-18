@@ -1,0 +1,332 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIBLL\\IOCDIBLL.csproj": {}
+  },
+  "projects": {
+    "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIBLL\\IOCDIBLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIBLL\\IOCDIBLL.csproj",
+        "projectName": "IOCDIBLL",
+        "projectPath": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIBLL\\IOCDIBLL.csproj",
+        "packagesPath": "C:\\Users\\king\\.nuget\\packages\\",
+        "outputPath": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIBLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\king\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIFramework\\IOCDIFramework.csproj": {
+                "projectPath": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIFramework\\IOCDIFramework.csproj"
+              },
+              "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIIBLL\\IOCDIIBLL.csproj": {
+                "projectPath": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIIBLL\\IOCDIIBLL.csproj"
+              },
+              "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIIDAL\\IOCDIIDAL.csproj": {
+                "projectPath": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIIDAL\\IOCDIIDAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIFramework\\IOCDIFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIFramework\\IOCDIFramework.csproj",
+        "projectName": "IOCDIFramework",
+        "projectPath": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIFramework\\IOCDIFramework.csproj",
+        "packagesPath": "C:\\Users\\king\\.nuget\\packages\\",
+        "outputPath": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIFramework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\king\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIIBLL\\IOCDIIBLL.csproj": {
+                "projectPath": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIIBLL\\IOCDIIBLL.csproj"
+              },
+              "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIIDAL\\IOCDIIDAL.csproj": {
+                "projectPath": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIIDAL\\IOCDIIDAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIIBLL\\IOCDIIBLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIIBLL\\IOCDIIBLL.csproj",
+        "projectName": "IOCDIIBLL",
+        "projectPath": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIIBLL\\IOCDIIBLL.csproj",
+        "packagesPath": "C:\\Users\\king\\.nuget\\packages\\",
+        "outputPath": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIIBLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\king\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIModel\\IOCDIModel.csproj": {
+                "projectPath": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIModel\\IOCDIModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIIDAL\\IOCDIIDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIIDAL\\IOCDIIDAL.csproj",
+        "projectName": "IOCDIIDAL",
+        "projectPath": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIIDAL\\IOCDIIDAL.csproj",
+        "packagesPath": "C:\\Users\\king\\.nuget\\packages\\",
+        "outputPath": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIIDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\king\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIModel\\IOCDIModel.csproj": {
+                "projectPath": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIModel\\IOCDIModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIModel\\IOCDIModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIModel\\IOCDIModel.csproj",
+        "projectName": "IOCDIModel",
+        "projectPath": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIModel\\IOCDIModel.csproj",
+        "packagesPath": "C:\\Users\\king\\.nuget\\packages\\",
+        "outputPath": "F:\\C#\\ASP.NET Core\\IOCDI解读\\IOCDIModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\king\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

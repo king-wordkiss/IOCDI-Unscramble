@@ -1,0 +1,16 @@
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIFramework\bin\Debug\netcoreapp3.1\IOCDIFramework.deps.json
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIFramework\bin\Debug\netcoreapp3.1\IOCDIFramework.dll
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIFramework\bin\Debug\netcoreapp3.1\IOCDIFramework.pdb
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIFramework\obj\Debug\netcoreapp3.1\IOCDIFramework.AssemblyInfoInputs.cache
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIFramework\obj\Debug\netcoreapp3.1\IOCDIFramework.AssemblyInfo.cs
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIFramework\obj\Debug\netcoreapp3.1\IOCDIFramework.csproj.CoreCompileInputs.cache
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIFramework\obj\Debug\netcoreapp3.1\IOCDIFramework.dll
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIFramework\obj\Debug\netcoreapp3.1\IOCDIFramework.pdb
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIFramework\bin\Debug\netcoreapp3.1\IOCDIIBLL.dll
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIFramework\bin\Debug\netcoreapp3.1\IOCDIIDAL.dll
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIFramework\bin\Debug\netcoreapp3.1\IOCDIModel.dll
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIFramework\bin\Debug\netcoreapp3.1\IOCDIIBLL.pdb
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIFramework\bin\Debug\netcoreapp3.1\IOCDIIDAL.pdb
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIFramework\bin\Debug\netcoreapp3.1\IOCDIModel.pdb
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIFramework\obj\Debug\netcoreapp3.1\IOCDIFramework.csprojAssemblyReference.cache
+F:\C#\ASP.NET Core\IOCDI解读\IOCDIFramework\obj\Debug\netcoreapp3.1\IOCDIFramework.csproj.CopyComplete

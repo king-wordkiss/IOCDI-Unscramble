@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IOCDIBLL\IOCDIBLL.csproj" />
+    <ProjectReference Include="..\IOCDIDAL\IOCDIDAL.csproj" />
+    <ProjectReference Include="..\IOCDIFramework\IOCDIFramework.csproj" />
+    <ProjectReference Include="..\IOCDIIBLL\IOCDIIBLL.csproj" />
+    <ProjectReference Include="..\IOCDIIDAL\IOCDIIDAL.csproj" />
+    <ProjectReference Include="..\IOCDIModel\IOCDIModel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsetting.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties appsetting_1json__JsonSchema="https://json.schemastore.org/appsettings.json" /></VisualStudio></ProjectExtensions>
+
+</Project>

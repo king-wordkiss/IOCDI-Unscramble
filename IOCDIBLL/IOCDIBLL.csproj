@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IOCDIFramework\IOCDIFramework.csproj" />
+    <ProjectReference Include="..\IOCDIIBLL\IOCDIIBLL.csproj" />
+    <ProjectReference Include="..\IOCDIIDAL\IOCDIIDAL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="UserBLL.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+
+</Project>
